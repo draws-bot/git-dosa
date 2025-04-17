@@ -2,8 +2,4 @@ dosa
 karam
 neyyi-dosa
 masala dosa
-<<<<<<< HEAD
 hi this is sandeep
-=======
-me
->>>>>>> 4afb00e5c5dcbe8794016b441a247ae5727d7f30

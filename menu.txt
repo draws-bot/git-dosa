@@ -1,5 +1,8 @@
 dosa
 karam
 neyyi-dosa
+<<<<<<< HEAD
 masala dosa
 this is sandeep
+=======
+>>>>>>> e382b5bdba8e0dd21ef36c49ffbac335ef85a6ce
